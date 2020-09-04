@@ -1,0 +1,1 @@
+All use authorised though please attribute me as the script author

@@ -168,3 +168,7 @@ sample_three.xlsx
 .xlsm
 .xltx
 .xltm
+<br>
+If you want .csv for the time being please save as .xlsx.
+<br>
+Happy to implement this feature if demand exists.
